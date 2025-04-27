@@ -2,7 +2,7 @@
 
 - this is a simple 2d game engine based on SFML libray and C++17
 
-![Engine Structure](https://github.com/GatsLee/Gats2DEngine/blob/master/Document/Gats2DEngine_structure.png)
+![Engine Structure](https://github.com/GatsLee/Gats2DEngine/blob/master/Document/Gats2DEngine_structure.jpg)
 
 - the engine is designed to be modular and extensible, allowing developers to easily add new features and functionality as needed.
 - the engine is built using C++17 and SFML, making it easy to use and integrate with other libraries and tools.
